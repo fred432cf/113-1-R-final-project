@@ -13,4 +13,4 @@ tidy_survey1 <- survey %>%
 
 glimpse(tidy_survey1)
 
-install.packages("remotes")
+
